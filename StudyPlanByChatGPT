@@ -1,0 +1,185 @@
+🧭 SDET MASTER ROADMAP (Target: Top Product Companies)
+Total Duration: 16–20 Weeks | Fully Structured | Daily Tracker Ready
+
+🧱 PHASE 1: Core Foundation (Weeks 1–3)
+🔹 Java Mastery
+✅ OOPs: Inheritance, Polymorphism, Encapsulation, Abstraction
+
+✅ Java 8: Lambda, Streams, Functional Interfaces, Method References
+
+✅ Collections: List, Set, Map, Queue, Sorting/Searching in Collections
+
+✅ Multithreading: Threads, Executors, Synchronization, Locks, wait/notify
+
+📚 Practice:
+
+LeetCode (Easy to Medium problems - Arrays, Strings, HashMap, Stack)
+
+Java Brains, GeeksForGeeks, HackerRank for quick coding
+
+🧪 PHASE 2: UI Automation + Framework (Weeks 4–6)
+🔹 Selenium WebDriver
+✅ Locators, WebDriver, Waits
+
+✅ Actions, JSExecutor, iFrames, Windows, Alerts
+
+✅ Page Object Model (POM)
+
+✅ Cross-browser, Headless, Grid
+
+🔹 TestNG/JUnit (Advanced)
+✅ Lifecycle annotations
+
+✅ Parallel execution
+
+✅ Assertions, Listeners, Groups, DataProvider
+
+✅ Retry logic, Parameterization
+
+🔹 Framework Building
+✅ Java + Selenium + TestNG
+
+✅ Maven + Log4j2 + ExtentReports
+
+✅ Utilities + Constants + Config Reader
+
+✅ Page Factory or POM
+
+📦 Output: Custom-built UI Automation Framework
+
+🔗 PHASE 3: API Testing + Framework (Weeks 7–8)
+🔹 RestAssured API Testing
+✅ HTTP methods, Status Codes, Headers
+
+✅ Path, Query, Form params
+
+✅ JSON Schema Validation
+
+✅ Serialization/Deserialization (POJO, ObjectMapper, Gson)
+
+✅ JSONPath, Hamcrest, HashMap Validation
+
+🔹 API Framework
+✅ Modular Framework with Base Classes
+
+✅ Logging, Assertions, Utils
+
+✅ Data-driven with Excel, JSON, DB
+
+✅ Report + Config Management
+
+📦 Output: Custom-built API Framework with Reporting & DDT
+
+🌱 PHASE 4: BDD with Serenity (Weeks 9–10)
+🔹 Serenity BDD + JUnit/TestNG
+✅ Feature Files, Step Definitions, Hooks
+
+✅ Page Object Pattern with Serenity
+
+✅ Serenity Reports
+
+✅ Integration with Selenium & RestAssured
+
+✅ Tags, Hooks, Scenario Outline, DataTables
+
+📦 Output: End-to-End Serenity BDD Framework (UI + API)
+
+⚙️ PHASE 5: DevOps + CI/CD (Weeks 11–13)
+🔹 Jenkins
+✅ Install, Setup, Plugins
+
+✅ Create freestyle & pipeline jobs
+
+✅ Git Integration, Scheduling, Parameterization
+
+✅ Email Notifications, Test Report Publishing
+
+🔹 Docker
+✅ Dockerfile, Docker Compose
+
+✅ Build + Run containers for Selenium Grid / API framework
+
+✅ Dockerize framework
+
+🔹 Kubernetes (K8s)
+✅ Pods, Deployments, Services
+
+✅ Minikube setup for local
+
+✅ Helm charts (intro)
+
+✅ Running test containers in K8s
+
+📦 Output: CI/CD pipeline for test automation + Dockerized Execution
+
+📊 PHASE 6: Testing Fundamentals + Strategy (Parallel Track)
+🧠 Must-Know Concepts (Weekly reading & notes)
+
+SDLC, STLC, Agile, Scrum
+
+Smoke, Sanity, Regression, UAT
+
+Defect Lifecycle, Test Strategy/Test Plan
+
+Risk-Based Testing
+
+Severity vs Priority
+
+Exploratory, Adhoc, Compatibility, Performance (intro)
+
+🛠️ Tools to Learn:
+
+Jira / XRay / Zephyr
+
+Postman (for API mocking/debugging)
+
+🧠 PHASE 7: Data Structures & Algorithms (Ongoing: Daily)
+📌 Focused DSA for SDET:
+
+Arrays, Strings (Sliding Window, Two Pointer, HashMap)
+
+Sorting, Searching, Binary Search
+
+Stack, Queue, HashSet, HashMap
+
+Recursion, Backtracking (limited)
+
+Trees, Graphs (BFS, DFS basics)
+
+🧪 Platform:
+
+LeetCode (min 150 quality problems)
+
+InterviewBit, Coding Ninjas, or HackerRank
+
+🏗️ PHASE 8: System Design for SDET (Weeks 14–15)
+🎯 Focus on basics:
+
+REST API architecture
+
+Request/Response lifecycle
+
+Microservices (what, why, how)
+
+Message Queues (Kafka basics)
+
+API Gateway, Load Balancer, Caching
+
+Authentication vs Authorization (OAuth2, JWT basics)
+
+📘 Recommended Resource: System Design Primer (GitHub)
+
+🗂️ PHASE 9: Interview Readiness (Weeks 16–17)
+🔹 Resume & Story Building
+Project Descriptions
+
+Real-time scenario explanations
+
+STAR format behavioral answers
+
+🔹 Mock Interviews
+Java + Framework Discussion
+
+Coding + Scenario + DevOps rounds
+
+API and UI Troubleshooting scenarios
